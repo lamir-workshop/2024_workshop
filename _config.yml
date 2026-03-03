@@ -3,8 +3,8 @@ preposition: ''
 description: >-
   Join us for the 1st Latin American Music Information Retrieval (LAMIR) workshop, from December 9 to 11, 2024, in Rio de Janeiro.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lamir-workshop.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/2024_workshop" # the subpath of your site, e.g. /blog
+url: "https://lamir-workshop.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
